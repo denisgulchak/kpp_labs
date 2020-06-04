@@ -1,2 +1,2 @@
 # kpp_labs
-![Screenshot](1.png)
+![Screenshot](scrreenshots/1.png)
